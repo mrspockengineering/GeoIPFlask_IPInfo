@@ -2,6 +2,7 @@ Geolocation_ipinfo
 ==================
 
 The simplest GeoIP lookup library for Flask.
+No registration needed, just use it for your_remote_IP or any specific IP (like 8.8.8.8 -> google.com)
 
 .. image:: https://raw.githubusercontent.com/whois-api-llc/flask-simple-geoip/master/images/geoip.png
 
